@@ -1,0 +1,42 @@
+.contenedor{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	min-height: 100vh; /*Altura minima, en este caso coge toda la pantalla*/
+}
+
+.formulario{
+	margin: 5px;
+	border: 1px solid black;
+	background: #ccc;
+
+}
+
+.boton{
+	
+	margin: 5px;
+
+	border: 1px solid black;
+	background: #ccc;
+}
+
+
+.tabla{
+	
+	margin: 5px;
+
+	border: 1px solid black;
+	background: #ccc;
+
+}
+
+form{
+	display: block;
+}
+
+
+
+
+
+
